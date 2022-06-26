@@ -6,7 +6,7 @@ Previous studies have shown that commonly studied (vanilla) implementations of t
 ## Getting Started 
 Please install all the required dependendencies by running the following command:
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ## Experiments
